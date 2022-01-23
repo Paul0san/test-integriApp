@@ -1,0 +1,115 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Paulo",
+      "last_name": "Sanchez",
+      "email": "paulo@gmail.com",
+      "password": "pass123",
+      "privileges": "Recursos Humanos"
+    },
+    {
+      "id": 2,
+      "name": "Memo",
+      "last_name": "Diaz",
+      "email": "memo@gmail.com",
+      "password": "pass123",
+      "privileges": "Gerente"
+    },
+    {
+      "id": 3,
+      "name": "Luca",
+      "last_name": "Lopez",
+      "email": "luca@gmail.com",
+      "password": "pass123",
+      "privileges": "Ventas"
+    },
+    {
+      "id": 4,
+      "name": "Eduardo",
+      "last_name": "Carrillo",
+      "privileges": "Gerente",
+      "email": "eduardo@gmail.com",
+      "password": "pass123"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "IPhone 13 Azul",
+      "price": 122,
+      "category": "Celulares",
+      "image": "https://www.apple.com/v/iphone-13-pro/d/images/overview/design/finishes_1_sierra_blue__2bovafkl4yaa_large.jpg"
+    },
+    {
+      "id": 4,
+      "name": "AirPods 2",
+      "price": 105,
+      "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTfISqvz8leWejepSRcjSlsLvvPbArPcGrfc8VxJ3SYo3UEYnkxKAufAZ4ETcqyRvSwhMh8FCZspw&usqp=CAc",
+      "category": "Audio"
+    },
+    {
+      "id": 6,
+      "name": "ADATA APT100",
+      "price": 45,
+      "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQvmp-6TwCLzy1rQWdbNlt71q91VaNN_xrBZGg2XOqp9TLBgjYbgHiQpm0mzqP9jxKXmYDShWC3lg&usqp=CAc",
+      "category": "Gadgets"
+    },
+    {
+      "id": 7,
+      "name": "Huawei Watch Gt 2",
+      "price": 45,
+      "image": "https://m.media-amazon.com/images/I/71NCQcllSyL._AC_SL1500_.jpg",
+      "category": "Relojes"
+    },
+    {
+      "id": 8,
+      "name": "Colección de bombillas LED",
+      "price": 40,
+      "image": "https://m.media-amazon.com/images/I/51o2rcxssqL._AC_SL1500_.jpg",
+      "category": "Hogar"
+    },
+    {
+      "id": 9,
+      "name": "Gaia Mueble de TV",
+      "price": 75,
+      "image": "https://m.media-amazon.com/images/I/41VaefCIrlL._AC_SL1200_.jpg",
+      "category": "Mobiliario"
+    },
+    {
+      "id": 10,
+      "name": "Consola Xbox Series S",
+      "price": 65,
+      "image": "https://m.media-amazon.com/images/I/81VdHXDp6bL._AC_SL1500_.jpg",
+      "category": "Consolas"
+    },
+    {
+      "id": 11,
+      "name": "Xbox Game Pass Ultimate 3 meses",
+      "price": 15,
+      "image": "https://m.media-amazon.com/images/I/71Q348iBSIL._AC_SL1500_.jpg",
+      "category": "Membresías"
+    },
+    {
+      "id": 12,
+      "name": "",
+      "price": 1231231,
+      "image": "",
+      "category": ""
+    },
+    {
+      "id": 13,
+      "name": "Seagate Tarjeta de expansión",
+      "price": 115,
+      "image": "https://m.media-amazon.com/images/I/61MGrHUMWzL._AC_SL1500_.jpg",
+      "category": "Almacenamiento"
+    },
+    {
+      "id": 14,
+      "name": "Picafresa",
+      "price": 1,
+      "image": "https://res.cloudinary.com/abillionveg/image/upload/q_auto,a_exif,w_1080,h_1080,c_fill/v1605410290/tnyyreuf8povo97n6du6.jpg",
+      "category": "Dulces"
+    }
+  ]
+}
