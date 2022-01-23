@@ -5,7 +5,7 @@
       "name": "Paulo",
       "last_name": "Sanchez",
       "email": "paulo@gmail.com",
-      "password": "",
+      "password": "pass123",
       "privileges": "Recursos Humanos"
     },
     {
@@ -13,7 +13,7 @@
       "name": "Memo",
       "last_name": "Diaz",
       "email": "memo@gmail.com",
-      "password": "",
+      "password": "pass123",
       "privileges": "Gerente"
     },
     {
@@ -21,15 +21,15 @@
       "name": "Luca",
       "last_name": "Lopez",
       "email": "luca@gmail.com",
-      "password": "",
+      "password": "pass123",
       "privileges": "Ventas"
     },
     {
       "id": 4,
-      "name": "aldnasd",
-      "last_name": "aljndaskd",
+      "name": "Eduardo",
+      "last_name": "Carrillo",
       "privileges": "Gerente",
-      "email": "lakdasd@gmail.com",
+      "email": "eduardo@gmail.com",
       "password": "pass123"
     }
   ],
@@ -37,7 +37,7 @@
     {
       "id": 1,
       "name": "IPhone 13 Azul",
-      "price": 120,
+      "price": 122,
       "category": "Celulares",
       "image": "https://www.apple.com/v/iphone-13-pro/d/images/overview/design/finishes_1_sierra_blue__2bovafkl4yaa_large.jpg"
     },
@@ -46,13 +46,6 @@
       "name": "AirPods 2",
       "price": 105,
       "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTfISqvz8leWejepSRcjSlsLvvPbArPcGrfc8VxJ3SYo3UEYnkxKAufAZ4ETcqyRvSwhMh8FCZspw&usqp=CAc",
-      "category": "Audio"
-    },
-    {
-      "id": 5,
-      "name": "AirPods Max",
-      "price": 130,
-      "image": "data:image/png;base64,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",
       "category": "Audio"
     },
     {
@@ -99,10 +92,10 @@
     },
     {
       "id": 12,
-      "name": "Duracell Cargador para Pilas",
-      "price": 65,
-      "image": "https://m.media-amazon.com/images/I/71EeFkpz5FL._AC_SL1500_.jpg",
-      "category": "Cargadores"
+      "name": "",
+      "price": 1231231,
+      "image": "",
+      "category": ""
     },
     {
       "id": 13,
